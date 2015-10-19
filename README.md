@@ -13,17 +13,17 @@ Everything that one can learn about growth hacking.
 
 ##Guides
 
-* [Growth Hacking Automation With Zapier](http://growthrocks.com/blog/growth-hacking-automation-with-zapier/)  
-* [The Ultimate Step-By-Step Guide To Guest Blogging (+ Trello Template)](http://growthrocks.com/blog/guest-blogging-step-by-step-guide/)  
+* [Growth Hacking Automation With Zapier](http://growthrocks.com/blog/growth-hacking-automation-with-zapier/)
+* [The Ultimate Step-By-Step Guide To Guest Blogging (+ Trello Template)](http://growthrocks.com/blog/guest-blogging-step-by-step-guide/)
 * [How To Quickly Plan And Execute A Successful Webinar](http://growthrocks.com/blog/plan-and-execute-a-webinar/)
 ##Infographics
 
-* [Infographic: What Is A Growth Hacker?](http://growthrocks.com/blog/growth-hacker/)  
+* [Infographic: What Is A Growth Hacker?](http://growthrocks.com/blog/growth-hacker/)
 * [Infographic: The 19 Paths To Extraordinary Growth](http://growthrocks.com/blog/infographic-traction-channels/)
 
 ##Presentations
 
-*  [Grow Hack Athens: Growth Hacking Seminar For Web & Mobile Apps](http://growthrocks.com/blog/growth-hacking-seminar-web-mobile-apps/)
+* [Grow Hack Athens: Growth Hacking Seminar For Web & Mobile Apps](http://growthrocks.com/blog/growth-hacking-seminar-web-mobile-apps/)
 
 
 
