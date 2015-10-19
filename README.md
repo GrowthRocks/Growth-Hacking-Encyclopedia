@@ -9,6 +9,7 @@ Everything that one can learn about growth hacking.
 *  [Conversion Rate Optimization: Do or Die!](http://growthrocks.com/blog/conversion-rate-optimization/)  
 *  [5+1 eCommerce Growth Hacks To Skyrocket Your Sales](http://growthrocks.com/blog/ecommerce-growth-hacking/)  
 *  [Chrome Extensions: The Big List For Growth Hackers & Marketers](http://growthrocks.com/blog/chrome-extensions/)
+*  [Growth Hacking Tool: A Survival Guide](https://growthrocks.com/blog/growth-hacking-tools/)
 
 ##Guides
 
