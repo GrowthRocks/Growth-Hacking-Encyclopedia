@@ -1,5 +1,9 @@
 # Growth-Hacking-Encyclopedia
 Everything that one can learn about growth hacking.
+
+##Courses
+*   [The Ultimate Introduction To Growth Hacking](https://growthrocks.com/university/the-ultimate-introduction-to-growth-hacking/)
+
 ##Articles
 
 *  [Growth Hacking 101: An Introduction To Growth Hacking Marketing](http://growthrocks.com/blog/growth-hacking101/)  
